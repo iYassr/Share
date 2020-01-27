@@ -1,0 +1,42 @@
+9:39 AM 21/Jan/20
+
+# Research Tennable vs Nessus ( PT ) 
+
+# reply to Nada's Email regarding findings
+
+# SP Routers is still open 
+# Check if powershlel is abel to run 
+--------------------------------------
+
+able to
+----------------
+
+9:39 AM 21/Jan/20
+# Watch AD Misconfiguration Video
+- Ask for Physical Workstation for PCI PT 
+	- Create Security Tester SJN User ( requested ) 
+	- Add users to the scanners
+	- Profit
+- Always use Excel Shortcuts
+* Nada Jabber Security Requirements
+- KAFD RFQ
+ - How to fill the sheet? do some research
+# Karthick Verification
+Check WAS Servers ( Critical Exploitable Finding ) 
+**************************************************
+Check against WAS in the environment
+
+**************************************************
+10:43 AM 22/Jan/20
+- Ask for Physical Workstation for PCI PT 
+	- Create Security Tester SJN User ( requested ) 
+	- Add users to the scanners
+	- Profit
+- Always use Excel Shortcuts
+* Nada Jabber Security Requirements
+- KAFD RFQ
+ - How to fill the sheet? do some research
+Check WAS Servers ( Critical Exploitable Finding )
+
+
+
